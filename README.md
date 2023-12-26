@@ -1,16 +1,23 @@
-### Hi there 👋
+### AI Engineer
+- AI Engineer, Deep Learning Engineer
+- I'm studying AI, Deep Learning, Computer Vision
 
-<!--
-**yongwookim1/yongwookim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest
+- AI, Deep Learning
+- Computer Vision, Multi-Modal
+- Generative AI
+- AI Service Development
 
-Here are some ideas to get you started:
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kyw1654)](https://solved.ac/kyw1654)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align=center>
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yongwootrbl/)](https://www.instagram.com/yongwootrbl/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyw1654@gmail.com)](mailto:kyw1654@gmail.com)
+
+</div>
+
