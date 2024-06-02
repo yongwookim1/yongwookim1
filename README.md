@@ -1,5 +1,5 @@
-### AI Engineer
-- AI Engineer, Deep Learning Engineer
+### AI
+- AI Researcher, AI Engineer
 - I'm studying AI, Deep Learning, Computer Vision
 
 ### Interest
