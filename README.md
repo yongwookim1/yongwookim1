@@ -1,4 +1,4 @@
-### AI
+### AI Researcher
 - AI Researcher, AI Engineer
 - I'm studying AI, Deep Learning, Computer Vision
 
@@ -7,6 +7,10 @@
 - Computer Vision, Multi-Modal
 - Generative AI
 - AI Service Development
+
+### Education
+- Sejong University, BS (2018.03 ~ 2024.08)
+- Korea University, Integrated Master's and Ph.D. (2024.09 ~ )
 
 <div align=center>
   
