@@ -9,8 +9,8 @@
 - AI Service Development
 
 ### Education
-- Sejong University, BS (2018.03 ~ 2024.08)
-- Korea University, Integrated Master's and Ph.D. (2024.09 ~ )
+- Sejong University, B.S. (2018.03 ~ 2024.08)
+- Korea University, Integrated M.S. and Ph.D. (2024.09 ~ )
 
 <div align=center>
   
