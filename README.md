@@ -20,6 +20,8 @@
 
 <div align=center>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongwoo-kim-3b1345310
+)](https://www.linkedin.com/in/yongwoo-kim-3b1345310) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yongwootrbl/)](https://www.instagram.com/yongwootrbl/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyw1654@gmail.com)](mailto:kyw1654@gmail.com)
 
