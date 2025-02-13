@@ -1,10 +1,10 @@
-### AI Researcher
-- AI Researcher, AI Engineer
-- I'm studying AI, Deep Learning, Computer Vision
+### AI Enginner
+- I'm studying AI, Deep Learning, Computer Vision, Natural Language Processing
 
 ### Interest
 - AI, Deep Learning
 - Computer Vision, Multi-Modal
+- Natural Language Processing
 - Generative AI
 - AI Service Development
 
