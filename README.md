@@ -10,7 +10,6 @@
 
 ### Education
 - Sejong University, B.S. (2018.03 ~ 2024.08)
-- Korea University, Integrated M.S. and Ph.D. (2024.09 ~ )
 
 <div align=center>
   
