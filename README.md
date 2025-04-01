@@ -2,14 +2,15 @@
 - I'm studying AI, Deep Learning, Computer Vision, Natural Language Processing
 
 ### Interest
-- AI, Deep Learning
-- Computer Vision, Multi-Modal
-- Natural Language Processing
+- AI, Machine Learning, Deep Learning
+- Computer Vision, Natural Language Processing, Multi-Modal
 - Generative AI
 - AI Service Development
+- Machine Unlearning
 
 ### Education
 - Sejong University, B.S. (2018.03 ~ 2024.08)
+- Korea University, Integrated M.S. and Ph.D. (2024.09 ~ )
 
 <div align=center>
   
