@@ -1,11 +1,10 @@
-### AI Enginner
-- I'm studying AI, Deep Learning, Computer Vision, Natural Language Processing
+### About Me
+I'm an AI researcher
 
-### Interest
+### Research Interests
 - AI, Machine Learning, Deep Learning
-- Computer Vision, Natural Language Processing, Multi-Modal
-- Generative AI
-- AI Service Development
+- Computer Vision, Natural Language Process
+- Generative Model
 - Machine Unlearning
 
 ### Education
