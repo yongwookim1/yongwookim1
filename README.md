@@ -1,5 +1,5 @@
 ### About Me
-I'm an AI researcher
+- AI Researcher
 
 ### Research Interests
 - AI, Machine Learning, Deep Learning
